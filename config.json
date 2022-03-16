@@ -1,0 +1,17 @@
+{
+   "name": "pi-scope-change-chart",
+   "className": "CustomApp",
+   "server": "https://rally1.rallydev.com",
+   "sdk": "2.1",
+   "javascript": [
+      "./lib/moment.min.js",
+      "./lib/moment-range.js",
+      "./lib/moment-timezone-with-data-2010-2020.min.js",
+      "_ts-string-filter.js",
+      "pi-scope-change-chart.js",
+      "App.js"
+   ],
+   "css": [
+      "app.css"
+   ]
+}
